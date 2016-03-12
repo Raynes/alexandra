@@ -127,5 +127,23 @@ would add:
         proxy_pass http://localhost:6789;
     }
 
+users & contributors
+======================
+
+Just some callouts to folks who have helped with this project, and built cool
+stuff with it.
+
+users
+-----
+- Yams_ – Skill for controlling Yamaha RX-V receivers via Echo devices
+- Echolight_ – Skill for controlling Hue lighting systems well beyond the
+  capabilities provided by the default integration.
+- Alexacast_ – Skill for controlling (to the best of its ability), chromecast
+  devices.
+
+.. _Yams: https://github.com/Raynes/yams
+.. _Alexacast: https://github.com/erik/Alexacast
+.. _Echolight: https://github.com/Raynes/Echolight
+
 .. |Build Status| image:: https://travis-ci.org/erik/alexandra.svg?branch=master
    :target: https://travis-ci.org/erik/alexandra
