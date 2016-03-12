@@ -141,9 +141,22 @@ users
 - Alexacast_ – Skill for controlling (to the best of its ability), chromecast
   devices.
 
+contributors
+------------
+
+- erik_ –– Owner
+- Raynes_ –– Friends with erik, man
+
+.. Users
+
 .. _Yams: https://github.com/Raynes/yams
 .. _Alexacast: https://github.com/erik/Alexacast
 .. _Echolight: https://github.com/Raynes/Echolight
+
+.. Contributors
+
+.. _erik: https://github.com/erik
+.. _Raynes: https://github.com/Raynes
 
 .. |Build Status| image:: https://travis-ci.org/erik/alexandra.svg?branch=master
    :target: https://travis-ci.org/erik/alexandra
